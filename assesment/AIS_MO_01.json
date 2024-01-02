@@ -202,7 +202,7 @@
       }
     ],
     "error_out": "Select Bangalore as the departure location",
-    "hint": "Ensure that you are sending ypr as departure location"
+    "hint": "Ensure that you are sending bangl as departure location"
   },
   {
     "description": "TestCase 4: Verify that there are no buses from Bangalore to New Delhi.Select New Delhi as the arrival location",
@@ -219,7 +219,7 @@
       }
     ],
     "error_out": "Select New Delhi as the arrival location",
-    "hint": "Ensure that you are sending ndls as the departure location"
+    "hint": "Ensure that you are sending del as the departure location"
   },
   {
     "description": "TestCase 4: Verify that there are no buses from Bangalore to New Delhi.Select the Correct Date",

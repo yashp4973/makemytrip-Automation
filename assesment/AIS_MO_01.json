@@ -79,11 +79,11 @@
       {
         "object_notation": "RESPONSE",
         "operator": "contains",
-        "expected_value": "January 2024"
+        "expected_value": "29"
       }
     ],
     "error_out": "Select the Correct Date",
-    "hint": "Ensure that your are selecting January 2024 in the month of travel"
+    "hint": "Ensure that your are selecting 29 as the date in the month of travel"
   },
   {
     "description": "TestCase 2: Get the details of flight from Bangalore to New Delhi.Click on the search button",
@@ -164,11 +164,11 @@
       {
         "object_notation": "RESPONSE",
         "operator": "contains",
-        "expected_value": "January 2024"
+        "expected_value": "29"
       }
     ],
     "error_out": "Select the Correct Date",
-    "hint": "Ensure that your are selecting January 2024 in the month of travel"
+    "hint": "Ensure that your are selecting 29 as the date in the month of travel"
   },
   {
     "description": "TestCase 3: Get the details of train from Bangalore to New Delhi.Click on the search button",
@@ -232,11 +232,11 @@
       {
         "object_notation": "RESPONSE",
         "operator": "contains",
-        "expected_value": "January 2024"
+        "expected_value": "29"
       }
     ],
     "error_out": "Select the Correct Date",
-    "hint": "Ensure that your are selecting January 2024 in the month of travel"
+    "hint": "Ensure that your are selecting 29 as the date in the month of travel"
   },
   {
     "description": "TestCase 4: Verify that there are no buses from Bangalore to New Delhi.Click on the search button",

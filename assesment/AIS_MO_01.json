@@ -270,7 +270,7 @@
       }
     ],
     "error_out": "Verify No buses found is displayed",
-    "hint": "Ensure that you are verifying that message displayed is equals to No buses found for 20 Jan"
+    "hint": "Ensure that you are verifying that message displayed is equals to No buses found for 20th of next Month"
   }
 ]
 }
